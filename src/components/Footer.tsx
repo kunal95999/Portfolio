@@ -96,7 +96,7 @@ const Footer = () => {
                   href="mailto:your.email@example.com"
                   className="hover:text-blue-400 transition-colors duration-200"
                 >
-                  your.email@example.com
+                  kunalsing95999@example.com
                 </a>
               </p>
               <p className="text-gray-400">
@@ -105,7 +105,7 @@ const Footer = () => {
                   href="tel:+911234567890"
                   className="hover:text-blue-400 transition-colors duration-200"
                 >
-                  +91 12345 67890
+                  +91 9958995811
                 </a>
               </p>
               <p className="text-gray-400">
