@@ -36,7 +36,7 @@ const Contact = () => {
         from_email: formData.email,
         subject: formData.subject,
         message: formData.message,
-        to_email: 'your.email@example.com', // Replace with your actual email
+        to_email: 'aarush0063.be20@example.com', // Replace with your actual email
       };
 
       await emailjs.send(serviceId, templateId, templateParams, publicKey);
@@ -55,14 +55,14 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      value: 'your.email@example.com',
-      link: 'mailto:your.email@example.com'
+      value: 'kunalsingh95999@example.com',
+      link: 'mailto:kunalsingh95999@example.com'
     },
     {
       icon: Phone,
       title: 'Phone',
-      value: '+91 12345 67890',
-      link: 'tel:+911234567890'
+      value: '+91 9958995811',
+      link: 'tel:+919958995811'
     },
     {
       icon: MapPin,
